@@ -1,0 +1,18 @@
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Triraya	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+init                 KEYWORD2
+default_pin          KEYWORD2
+custom_pin           KEYWORD2
+monitor_data         KEYWORD2
+pwm_controller       KEYWORD2
+push_button          KEYWORD2
+enable_pwm_pin       KEYWORD2
+enable_button_pin    KEYWORD2
