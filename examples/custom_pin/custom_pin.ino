@@ -14,8 +14,9 @@ void setup() {
   myraya.init(ssid, password); //activate the AP SSID and Password
   myraya.custom_pin(); //Using custom pin that has been set
   pinMode(LED, OUTPUT); //make LED as output
+  myraya.push_button(LED);
 }
 
 void loop() { 
-  myraya.push_button(LED); //connect pin with triraya
+  
 }
